@@ -1,0 +1,30 @@
+{
+    "type": "record",
+    "name": "value_st2",
+    "fields": [
+        {
+            "name": "ev",
+            "type": "string"
+        },
+        {
+            "name": "x",
+            "type": "string"
+        },
+        {
+            "name": "t",
+            "type": "string"
+        },
+        {
+            "name": "tp",
+            "type": "string"
+        },
+        {
+            "name": "rpk",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+bootstrap.servers=my-kafka-service.aivencloud.com:12345
+schema.registry.url=https://my-kafka-service.aivencloud.com:12346
+basic.auth.user.info=avnadmin:password
+# ssl.truststore.password=secret
+# ssl.keystore.password=secret
+# ssl.key.password=secret

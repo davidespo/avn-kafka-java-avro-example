@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {
+      "name": "pk",
+      "type": "string"
+    }
+  ],
+  "name": "key_st",
+  "type": "record"
+}
